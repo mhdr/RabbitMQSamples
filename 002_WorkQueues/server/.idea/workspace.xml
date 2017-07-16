@@ -1048,12 +1048,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500193204971</updated>
-      <workItem from="1500193207551" duration="3849000" />
+      <workItem from="1500193207551" duration="3955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3849000" />
+    <option name="totallyTimeSpent" value="3955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="3840" height="2131" extended-state="6" />
@@ -1126,6 +1126,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
